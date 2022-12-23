@@ -21,7 +21,7 @@ keywords = [' face',
             ' side face',
             ' looking up',
             ' looking down',
-            # ' wearning glasses',
+            # ' wearing glasses',
             # ' happy face',
             ' close up']
 
